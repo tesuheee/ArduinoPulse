@@ -1,0 +1,7 @@
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).exe.config
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).exe
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).pdb
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest_send_.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest(send).csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest(send).exe
+c:\users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest(send).pdb

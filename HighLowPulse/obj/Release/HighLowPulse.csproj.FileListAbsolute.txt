@@ -1,0 +1,17 @@
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).exe.config
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).exe
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\bin\Release\SerialTest(send).pdb
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\HighLowPulse.csprojResolveAssemblyReference.cache
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest_send_.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\HighLowPulse.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest(send).exe
+C:\Users\acer\documents\visual studio 2013\Projects\SerialTest(send)\SerialTest(send)\obj\Release\SerialTest(send).pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\bin\Release\SerialTest(send).exe.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\SerialTest(send).exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\SerialTest(send).pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\bin\Release\SerialTest(send).exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\bin\Release\SerialTest(send).pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\HighLowPulse.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\HighLowPulse.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\SerialTest_send_.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\HighLowPulse\HighLowPulse\obj\Release\HighLowPulse.csproj.GenerateResource.Cache
